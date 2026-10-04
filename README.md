@@ -1,7 +1,4 @@
-# Max Gabriel Susman
-
-Electrical engineering student at the University of Utah, building neural
-interface hardware. The current project:
+I'm an embedded systems engineer. On my own time I built a neural interface system end to end, the Argus Cybernetics stack, my flagship project:
 
 ## Argus Cybernetics
 
