@@ -1,4 +1,4 @@
-I'm an embedded systems engineer. On my own time I built a neural interface system end to end, the Argus Cybernetics stack, my flagship project:
+I'm an embedded systems engineer. On my own time I built a neural interface system from acquisition to decoded command, the Argus Cybernetics stack, my flagship project:
 
 ## Argus Cybernetics
 
@@ -18,7 +18,7 @@ second.
   at 125 MHz; ~14,500 frames on the wire without an error.
 - One command brings the stack up, one command tests it on the board.
 
-**Start here → [argus_bringup](https://github.com/Max-Gabriel-Susman/argus_bringup)** —
+**Start here → [argus_bringup](https://github.com/Max-Gabriel-Susman/argus_bringup)**  —
 the overview, the launch, the hardware test harness, and the full results table.
 
 The stack, eight repositories, Apache-2.0:
