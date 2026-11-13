@@ -1,4 +1,4 @@
-I'm an embedded systems engineer. On my own time I built a neural interface system from acquisition to decoded command, the Argus Cybernetics stack, my flagship project:
+I'm an embedded systems engineer. In my free time I enjoy writing software. My main squeeze these days is a neural interface system from acquisition to decoded command, the Argus Cybernetics stack:
 
 ## Argus Cybernetics
 
