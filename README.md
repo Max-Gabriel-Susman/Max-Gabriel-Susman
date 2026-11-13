@@ -1,4 +1,4 @@
-I'm an embedded systems engineer. In my free time I enjoy writing software. My main squeeze these days is a neural interface system from acquisition to decoded command, the Argus Cybernetics stack:
+I'm an embedded systems engineer. In my free time I enjoy writing software and consuming Sci-Fi; leading to me spending the last couple of years building out a neural interface system from acquisition to decoded command, the Argus Cybernetics stack:
 
 ## Argus Cybernetics
 
