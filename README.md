@@ -1,4 +1,4 @@
-I'm an engineer and in my free time I enjoy writing software, tinkering, and consuming Sci-Fi; leading to me spending the last couple of years building out a neural interface system from acquisition to decoded command, the Argus Cybernetics stack:
+I’m an engineer, and in my free time I enjoy writing software, tinkering, and consuming sci-fi. That combination led me to spend the last couple of years building out the Argus Cybernetics stack, a neural interface system that goes from acquisition to decoded command:
 
 ## Argus Cybernetics
 
